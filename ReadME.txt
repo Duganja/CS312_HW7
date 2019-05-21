@@ -17,7 +17,7 @@ Instructions:
 	
 	5. In each Alpine VM, use command ‘ip addr’ to retrieve IP addresses.
 	
-	6.Download all 4 files we need by order:
+	6.Download all 4 files we need by order, either using these curl commands or the files submitted on canvas:
 	  curl https://raw.githubusercontent.com/Duganja/CS312_HW7/master/ansible-index.html > ~/ansible-index.html
 	  curl https://raw.githubusercontent.com/Duganja/CS312_HW7/master/hosts.ini > ~/hosts.ini
 	  curl https://raw.githubusercontent.com/Duganja/CS312_HW7/master/hw7.sh > ~/hw7.sh
