@@ -9,7 +9,7 @@
 
 
 #create and ssh key for the CentOS controller
-ssh-keygen -t res
+ssh-keygen -t rsa
 
 
 #promt user for each Alpine VM IP address
